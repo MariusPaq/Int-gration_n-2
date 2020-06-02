@@ -91,7 +91,6 @@ input[type="message"]{height: 13.4375rem;}
 label[for="email"]{padding-top: 0.625rem;}
 button[type="submit"]{margin-top: 1.5rem;height: 3.75rem;width: 23.125rem;background-color: rgb(75,202,255);border-color: rgb(75,202,255);}
 label[for="fullname"]{margin-top: 1.875rem;}
-
 .belowfooter{background-color: rgb(53,63,71);min-height: 10.625rem;color: gray;}
 .liensfooter, .belowfooter p{padding-top: 5rem;}
 .liensfooter a{color: grey;text-decoration: none;padding-right: 0.9375rem;padding-left: 0.9375rem;}

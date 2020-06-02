@@ -5,7 +5,7 @@
         <div class="topservices">
           <h2 class="text-white">SERVICES</h2>
           <div class="underlignetitle"></div>
-        </div>
+        </div><!--FIN TOPSERVICES-->
         <div class="colservices">
           <div class="row">
             <div class="col-lg-3"><img src="images/logoservices1.jpg"><h1 class="font-weight-bold text-white">COFFEE</h1><p class="font-weight-bold text-white">Apple pie icing sweet. Brownie jelly-o applicake applicake sweet roll liquorice bear claw. Jujubes carrot cake cotton candy sweet tart brownie. Tiramisu applicake jujubes.</p></div>
@@ -13,9 +13,9 @@
             <div class="col-lg-3"><img src="images/logoservices3.jpg"><h1 class="font-weight-bold text-white">SERIOUS</h1><p class="font-weight-bold text-white">Apple pie icing sweet. Brownie jelly-o applicake applicake sweet roll liquorice bear claw. Jujubes carrot cake cotton candy sweet tart brownie. Tiramisu applicake jujubes.</p></div>
             <div class="col-lg-3"><img src="images/logoservices4.jpg"><h1 class="font-weight-bold text-white">FRAME</h1><p class="font-weight-bold text-white">Apple pie icing sweet. Brownie jelly-o applicake applicake sweet roll liquorice bear claw. Jujubes carrot cake cotton candy sweet tart brownie. Tiramisu applicake jujubes.</p></div>
           </div>
-        </div>
+        </div><!--FIN COLSERVICES-->
       </div>
-    </div>
+    </div><!--FIN SERVICES-->
 
     <div class="portfolio" id="portfolio">
       <div class="contentainer">
@@ -33,7 +33,7 @@
             <a href="#" class="righttop">ALL</a>
           </div>
          </div>
-        </div>
+       </div><!--FIN TOPPORTFOLIO-->
         <div class="colportfolio">
           <div class="row">
             <div class="col-lg-3"><img src="images/imgportfolio1.jpg" alt=""></div>
@@ -47,7 +47,7 @@
             <div class="col-lg-3"><img src="images/imgportfolio7.jpg" alt=""></div>
             <div class="col-lg-3"><img src="images/imgportfolio8.jpg" alt=""></div>
           </div>
-        </div>
+        </div><!--FIN colportfolio-->
       </div>
     </div>
 
@@ -105,7 +105,6 @@
           </div>
         </div>
       </div>
-
     </div>
 
     <div class="testimonials">

@@ -5,7 +5,6 @@
       <div class="underlignetitle"></div>
       <div class="row">
         <div class="col-lg-6">
-
           <form>
             <div class="form-group">
               <label for="fullname" class="text-white">FULL NAME</label>
@@ -15,8 +14,7 @@
               <label for="email" class="text-white">EMAIL</label>
               <input type="email" class="form-control">
             </div>
-          </form>
-
+          </form><!--FIN FORM-->
         </div>
         <div class="col-lg-6"><p class="text-white">Jujubes bear claw croissant wafer sweet lemon drops brownie chocolate bar. Sweet lollipop halvah tootsie roll cake fruitcake. Chocolate cake chocolate bar gingerbread lollipop tart. Jujubes bear claw donut chupa chups.Linda Newman<br><br><br>W325 State Road 123<br>Mondovi, WI(Wisconsin) 98746-54321<br>(715) 946 - 1234</p></div>
       </div>
@@ -26,9 +24,9 @@
           <input type="message" class="form-control">
         </div>
         <button type="submit" class="btn btn-primary">MESSAGE</button>
-      </form>
+      </form><!--FIN FORM-->
     </div>
-  </div>
+  </div><!--FIN TOPFOOTER-->
   <div class="belowfooter">
     <div class="contentainer">
       <div class="row">
@@ -43,10 +41,8 @@
         <div class="col-lg-6"><p>2020</p></div>
       </div>
     </div>
-  </div>
-
+  </div><!--FIN BELOWFOOTER-->
 </footer>
-
 </body>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
