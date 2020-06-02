@@ -9,7 +9,6 @@
     <link rel="stylesheet" href="main.css">
   </head>
   <body>
-
     <header>
       <div class="topheader">
         <div class="contentainer" id="contheader">
@@ -20,7 +19,7 @@
           <a href="#services" class="px-4 righttop">services</a>
           <a href="#" class="px-4 righttop">home</a>
           </div>
-      </div>
+      </div><!--FIN TOPHEADER-->
       <div class="belowheader">
         <h1><p>"i'm looking for the unexpected.</p>
         <p>i'm looking for things i've never seen before."</p></h1>
