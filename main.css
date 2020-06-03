@@ -16,7 +16,7 @@ header{background:url("images/header.jpg");}
 
 /*HEADER*/
 .topheader{background-color: rgba(72,83,90,0.8);min-height: 9.375rem;}
-#logo{font-size: 1.375rem;text-decoration: none;border: none;}
+#logo{font-size: 1.7rem;text-decoration: none;border: none;}
 .righttop{float: right;}
 .topheader a{
   color: #fff;
@@ -33,12 +33,11 @@ header{background:url("images/header.jpg");}
 .belowheader h1{padding-top: 15.625rem;}
 .belowheader p{
   font-size: 1.875rem;
-  /*color: #fff;*/
-  /*text-transform:  uppercase;*/
   background-color: rgba(53,63,70,.8);
   display: table;
   margin-left: auto;
   margin-right: auto;
+  font-weight: lighter;
 }
 
 
@@ -49,7 +48,7 @@ header{background:url("images/header.jpg");}
 .services img{padding-top: 2.1875rem;}
 .services h1 {font-size: 2rem;padding-top: 1.25rem;}
 .services h2 {font-size: 2.5rem;margin-bottom: 0rem;}
-.services p{font-size: 0.8125rem;}
+.services p{font-size: 0.7rem;}
 
 /*PORTFOLIO*/
 .portfolio {min-height: 52.8125rem;}
@@ -59,12 +58,12 @@ header{background:url("images/header.jpg");}
 .portfolio a{margin-left: 0.9375rem;color: black;text-decoration: none;padding: 0.125rem 0.3125rem;}
 .portfolio img{padding-top: 1.875rem;}
 .hoverportfolio:hover{opacity: 1;}
-.hoverportfolio {position: absolute;top: 1.875rem;bottom: 0;left: 0.9375rem;right: 0.9375rem;background-color: rgba(30, 30, 30, 0.6);font-size: 3.125rem;opacity: 0;}
+.hoverportfolio {position: absolute;top: 1.875rem;bottom: 0;left: 0.9375rem;right: 0.9375rem;background-color: rgba(30, 30, 30, 0.6);font-size: 3.5rem;opacity: 0;}
 
 /*JUSTE DEFAULT SECTION*/
-.just{background-color: rgb(81,95,103);min-height: 29.4375rem;}
+.just{background-color: rgb(81,95,103);min-height: 29.7rem;}
 .just h2, .just iframe{padding-top: 4.375rem;}
-.just p {padding-top: 1.375rem;padding-bottom: 0.9375rem;font-size: 1.083rem;}
+.just p {padding-top: 1.375rem;padding-bottom: 0.9375rem;font-size: 1.03rem;}
 .just a{text-decoration: none;border: solid;padding: 0.9375rem 2.5rem;}
 iframe{width: 35rem;height: 25rem;}
 
