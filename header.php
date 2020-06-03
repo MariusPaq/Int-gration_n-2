@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
     <link rel="stylesheet" href="main.css">
-  </head> 
+  </head>
   <body>
     <header>
       <div class="topheader">
@@ -21,7 +21,7 @@
           </div>
       </div><!--FIN TOPHeader-->
       <div class="belowheader">
-        <h1><p>"i'm looking for the unexpected.</p>
-        <p>i'm looking for things i've never seen before."</p></h1>
+        <h1><p class="py-2 px-4 text-uppercase text-white">"i'm looking for the unexpected.</p>
+        <p class="py-2 px-4 text-uppercase text-white">i'm looking for things i've never seen before."</p></h1>
       </div>
     </header>
