@@ -17,9 +17,9 @@
           <a href="#portfolio" class="px-4 righttop">portfolio</a>
           <a href="#features" class="px-4 righttop">features</a>
           <a href="#services" class="px-4 righttop">services</a>
-          <a href="#" class="px-4 righttop">home</a>
+          <a href="#" class="active px-4 righttop">home</a>
           </div>
-      </div><!--FIN TOPHEADER-->
+      </div><!--FIN TOPHeader-->
       <div class="belowheader">
         <h1><p>"i'm looking for the unexpected.</p>
         <p>i'm looking for things i've never seen before."</p></h1>

@@ -30,7 +30,7 @@
             <a href="#" class="righttop">MACRO</a>
             <a href="#" class="righttop">PORTRAITS</a>
             <a href="#" class="righttop">PANORAMA</a>
-            <a href="#" class="righttop">ALL</a>
+            <a href="#" class="active righttop">ALL</a>
           </div>
          </div>
        </div><!--FIN TOPPORTFOLIO-->

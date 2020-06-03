@@ -25,8 +25,11 @@ header{background:url("images/header.jpg");}
   font-weight: 600;
   text-decoration: none;
   font-size: 1.1625rem;
+  padding-top: 0.125rem;
+  padding-bottom: 0.125rem;
 }
-.topheader a:hover{color: var(--blue);border: solid;}
+.topheader a.active{color: var(--blue);border: solid;}
+.topheader a:hover{color: var(--blue);}
 .belowheader{min-height: 40.625rem;}
 .belowheader h1{padding-top: 15.625rem;}
 .belowheader p{
@@ -38,6 +41,7 @@ header{background:url("images/header.jpg");}
   margin-left: auto;
   margin-right: auto;
 }
+
 
 /*SERVICES*/
 #contheader{padding-top: 4.0625rem;}
@@ -51,8 +55,9 @@ header{background:url("images/header.jpg");}
 /*PORTFOLIO*/
 .portfolio {min-height: 52.8125rem;}
 .topportfolio{padding-bottom: 3.125rem;padding-top: 4.375rem;}
-.portfolio a:hover{color: var(--blue);border: solid;border-width: medium;text-decoration: none;}
-.portfolio a{margin-left: 0.9375rem;color: black;}
+.portfolio a.active{color: var(--blue);border: solid;}
+.portfolio a:hover{color: var(--blue);}
+.portfolio a{margin-left: 0.9375rem;color: black;text-decoration: none;padding: 0.125rem 0.3125rem;}
 .portfolio img{padding-top: 1.875rem;}
 
 /*JUSTE DEFAULT SECTION*/
@@ -69,7 +74,7 @@ iframe{width: 35rem;height: 25rem;}
 .twitter p{padding-top: 2rem;font-size: 1.75rem;}
 
 /*who*/
-.who{background-image: url("images/who.jpg");background-size: 100% 100%;min-height: 31.25rem;}
+.who{background-image: url("images/who.jpg");background-size: cover;min-height: 31.25rem;}
 .who h2{padding-top: 6.25rem;}
 .toppwho{padding-top: 2rem;}
 .who a{border: solid;padding: 20px 15px;}
@@ -83,7 +88,7 @@ iframe{width: 35rem;height: 25rem;}
 
 /*FOOTER*/
 footer{font-family: Myria-Pro;}
-.topfooter{background-image: url("images/footer.jpg");background-size: 100% 100%;min-height: 50.9375rem;}
+.topfooter{background-image: url("images/footer.jpg");background-size: cover;min-height: 50.9375rem;}
 .topfooter p{font-size: 0.9125rem;padding-top: 3.4375rem;}
 .topfooter h2{padding-top: 5rem;}
 .topfooter input{background-color: rgba(0, 0, 0, 0);min-height: 3.4375rem;}
