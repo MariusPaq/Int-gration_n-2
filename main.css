@@ -99,4 +99,4 @@ label[for="fullname"]{margin-top: 1.875rem;}
 .belowfooter{background-color: rgb(53,63,71);min-height: 10.625rem;color: gray;}
 .liensfooter, .belowfooter p{padding-top: 5rem;}
 .liensfooter a{color: grey;text-decoration: none;padding-right: 0.9375rem;padding-left: 0.9375rem;}
-.belowfooter p{float: right;}
+.belowfooter p{float: right;} 

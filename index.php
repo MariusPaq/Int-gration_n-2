@@ -31,7 +31,7 @@
             <a href="#" class="righttop">PORTRAITS</a>
             <a href="#" class="righttop">PANORAMA</a>
             <a href="#" class="active righttop">ALL</a>
-          </div>
+          </div> 
          </div>
        </div><!--FIN TOPPORTFOLIO-->
         <div class="colportfolio">
