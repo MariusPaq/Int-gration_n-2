@@ -31,21 +31,61 @@
             <a href="#" class="righttop">PORTRAITS</a>
             <a href="#" class="righttop">PANORAMA</a>
             <a href="#" class="active righttop">ALL</a>
-          </div> 
+          </div>
          </div>
        </div><!--FIN TOPPORTFOLIO-->
         <div class="colportfolio">
           <div class="row">
-            <div class="col-lg-3"><img src="images/imgportfolio1.jpg" alt=""></div>
-            <div class="col-lg-3"><img src="images/imgportfolio2.jpg" alt=""></div>
-            <div class="col-lg-3"><img src="images/imgportfolio3.jpg" alt=""></div>
-            <div class="col-lg-3"><img src="images/imgportfolio4.jpg" alt=""></div>
+            <div class="col-lg-3">
+              <img src="images/imgportfolio1.jpg" alt="">
+              <div class="hoverportfolio justify-content-center align-items-center d-flex">
+                <a href="#" class="text-white">+</a>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <img src="images/imgportfolio2.jpg" alt="">
+              <div class="hoverportfolio justify-content-center align-items-center d-flex">
+                <a href="#" class="text-white">+</a>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <img src="images/imgportfolio3.jpg" alt="">
+              <div class="hoverportfolio justify-content-center align-items-center d-flex">
+                <a href="#" class="text-white">+</a>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <img src="images/imgportfolio4.jpg" alt="">
+              <div class="hoverportfolio justify-content-center align-items-center d-flex">
+                <a href="#" class="text-white">+</a>
+              </div>
+            </div>
           </div>
           <div class="row">
-            <div class="col-lg-3"><img src="images/imgportfolio5.jpg" alt=""></div>
-            <div class="col-lg-3"><img src="images/imgportfolio6.jpg" alt=""></div>
-            <div class="col-lg-3"><img src="images/imgportfolio7.jpg" alt=""></div>
-            <div class="col-lg-3"><img src="images/imgportfolio8.jpg" alt=""></div>
+            <div class="col-lg-3">
+              <img src="images/imgportfolio5.jpg" alt="">
+              <div class="hoverportfolio justify-content-center align-items-center d-flex">
+                <a href="#" class="text-white">+</a>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <img src="images/imgportfolio6.jpg" alt="">
+              <div class="hoverportfolio justify-content-center align-items-center d-flex">
+                <a href="#" class="text-white">+</a>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <img src="images/imgportfolio7.jpg" alt="">
+              <div class="hoverportfolio justify-content-center align-items-center d-flex">
+                <a href="#" class="text-white">+</a>
+              </div>
+            </div>
+            <div class="col-lg-3">
+              <img src="images/imgportfolio8.jpg" alt="">
+              <div class="hoverportfolio justify-content-center align-items-center d-flex">
+                <a href="#" class="text-white">+</a>
+              </div>
+            </div>
           </div>
         </div><!--FIN colportfolio-->
       </div>

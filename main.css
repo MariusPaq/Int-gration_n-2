@@ -4,7 +4,6 @@
 @font-face {font-family: 'Segoe UI Light';src: url('/surface/Assets/css/fonts/all/light/segoeuil.eot');src: url('/surface/Assets/css/fonts/all/light/segoeuil.eot?#iefix') format('embedded-opentype'),url('/surface/Assets/css/fonts/all/light/segoeuil.woff') format('woff'),url('/surface/Assets/css/fonts/all/light/segoeuil.svg#SegoeUILight') format('svg');font-weight: normal;font-style: normal;}
 @font-face{ font-family: 'Myria-Pro';src:url("fonts/MYRIADPROREGULAR.ttf");}
 
-body{font-family: SegoeUI;}
 root{--blue: #15589e;}
 .blue{  color: var(--blue);}
 header{background:url("images/header.jpg");}
@@ -59,6 +58,8 @@ header{background:url("images/header.jpg");}
 .portfolio a:hover{color: var(--blue);}
 .portfolio a{margin-left: 0.9375rem;color: black;text-decoration: none;padding: 0.125rem 0.3125rem;}
 .portfolio img{padding-top: 1.875rem;}
+.hoverportfolio:hover{opacity: 1;}
+.hoverportfolio {position: absolute;top: 1.875rem;bottom: 0;left: 0.9375rem;right: 0.9375rem;background-color: rgba(30, 30, 30, 0.6);font-size: 3.125rem;opacity: 0;}
 
 /*JUSTE DEFAULT SECTION*/
 .just{background-color: rgb(81,95,103);min-height: 29.4375rem;}
@@ -99,4 +100,4 @@ label[for="fullname"]{margin-top: 1.875rem;}
 .belowfooter{background-color: rgb(53,63,71);min-height: 10.625rem;color: gray;}
 .liensfooter, .belowfooter p{padding-top: 5rem;}
 .liensfooter a{color: grey;text-decoration: none;padding-right: 0.9375rem;padding-left: 0.9375rem;}
-.belowfooter p{float: right;} 
+.belowfooter p{float: right;}
